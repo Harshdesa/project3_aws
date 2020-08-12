@@ -1,0 +1,3 @@
+Chaincode definition for chaincode 'bigdatacc_', version '0', sequence '1' on channel 'mychannel' approval status by org:
+Org1MSP: false
+Org2MSP: false
