@@ -26,7 +26,7 @@ export PATH=${PWD}/../bin:${PWD}:$PATH
 export FABRIC_CFG_PATH=$PWD/../config/
 
 #./scripts/install-chaincode.sh 0
-for (( i = 0; i < 4; ++i ))
+for (( i = 0; i < 15; ++i ))
 do
   echo "$i $i $i Install high throughput chaincode on test network peers"
   ./scripts/install-chaincode.sh $i
