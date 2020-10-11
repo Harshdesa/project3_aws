@@ -1,0 +1,3 @@
+signSGD
+
+Final -> Federated Averaging
